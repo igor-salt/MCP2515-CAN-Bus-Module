@@ -611,7 +611,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C2"
-			(at 2.3375 0.2 360)
+			(at 2.3375 0.2 0)
 			(layer "F.SilkS")
 			(uuid "deb29fcc-5823-4a9b-8056-11b4b159a147")
 			(effects
@@ -4071,7 +4071,7 @@
 		(descr "SMD Crystal HC-49-SD http://cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf, hand-soldering, 11.4x4.7mm^2 package")
 		(tags "SMD SMT crystal hand-soldering")
 		(property "Reference" "Y1"
-			(at 0 -3.55 360)
+			(at 0 -3.55 0)
 			(layer "F.SilkS")
 			(uuid "0d1796e5-2c35-45c0-a224-ef8f4ff7f9e9")
 			(effects
@@ -4082,7 +4082,7 @@
 			)
 		)
 		(property "Value" "Crystal"
-			(at 0 3.55 360)
+			(at 0 3.55 0)
 			(layer "F.Fab")
 			(uuid "0e3ba402-7fc6-4a7d-aace-df69000ee6f6")
 			(effects
@@ -4289,7 +4289,7 @@
 			(uuid "da456792-facd-4ebe-9ca7-06fdae188cad")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "5f69ff06-b180-4e55-81f4-78bf4cd89cba")
 			(effects
@@ -4824,7 +4824,7 @@
 		(uuid "af2006f8-4c85-45e1-b5f6-a6445f4e54d1")
 		(at 204.338 81.7 180)
 		(property "Reference" "CRYSTAL-ECS-100-?-?PVX1"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(uuid "8996f0a5-426b-4743-aac7-57d04c80dfa0")
 			(effects
@@ -4835,7 +4835,7 @@
 			)
 		)
 		(property "Value" "8MHz"
-			(at -1.0845 4.302 360)
+			(at -1.0845 4.302 0)
 			(layer "F.Fab")
 			(uuid "c2479a3b-8e0f-428b-ab60-1c38914f995e")
 			(effects
@@ -4846,7 +4846,7 @@
 			)
 		)
 		(property "Footprint" "ProPrj_CAN_2025-04-09:HC-49US_L11.5-W4.5-P4.88"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6c3a7da4-6287-4998-92de-ab6c5ce17d1b")
@@ -4858,7 +4858,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "41711bce-e2ab-4ca6-ae15-3052b9029d21")
@@ -4870,7 +4870,7 @@
 			)
 		)
 		(property "Description" "10MHz Â±30ppm Crystal 20pF 60 Ohms HC-49/US"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "aab581ea-a037-4fc6-9cbf-3db1bfb1a738")
