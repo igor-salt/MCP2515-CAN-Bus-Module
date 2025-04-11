@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "ProPrj_CAN-easyedapro")(type "KiCad")(uri "${KIPRJMOD}/ProPrj_CAN-easyedapro.kicad_sym")(options "")(descr ""))
   (lib (name "Regulator_Switching1")(type "KiCad")(uri "${KIPRJMOD}/Regulator_Switching.kicad_sym")(options "")(descr ""))
+  (lib (name "Local")(type "KiCad")(uri "${KIPRJMOD}/Local.kicad_sym")(options "")(descr ""))
 )
