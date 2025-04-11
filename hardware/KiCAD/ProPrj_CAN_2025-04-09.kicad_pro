@@ -466,10 +466,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Gerber/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "ProPrj_CAN_2025-04-09.step",
       "svg": "",
       "vrml": ""
     },
