@@ -1,0 +1,279 @@
+(footprint "L_12x12_universal"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Inductor, SXN, SMDRI127, 12.3x12.3x8.0mm, https://www.sxndz.com/upload/202108/16/202108161607454319.pdf")
+	(tags "Inductor sxn smdri")
+	(property "Reference" "L2"
+		(at 8.1 -2.3 0)
+		(layer "F.SilkS")
+		(uuid "2212b6e8-f5ca-40c3-b910-3b14f44dd354")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "220 uH"
+		(at 10.1 -4.2 0)
+		(layer "F.Fab")
+		(uuid "b3033fea-2e68-44e3-b51c-4b1058358b8d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "Inductor_SMD:L_SXN_SMDRI127"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9c06103e-0e89-4f48-8752-f50f89bf8e2c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.chipdip.ru/product/srr1208-101yl"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "92565ff6-19bd-4119-8e4b-1c553a414464")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Inductor with ferrite core"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "96cd5c52-91ec-4194-9484-9176a4d3acda")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "ChipDip" "970844433"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "85bae704-4a46-4e7b-bb1e-3d9b373ab0cf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -6.41 -6.41)
+		(end -6.41 -2.96)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1cd1041b-39d1-4a54-a9b0-34137d9bece5")
+	)
+	(fp_line
+		(start -6.41 -6.41)
+		(end 6.41 -6.41)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e55dbb1e-909e-4911-ba2a-6f3cfe7be409")
+	)
+	(fp_line
+		(start -6.41 6.41)
+		(end -6.41 2.96)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "937f0055-ae6a-473e-83ee-e436c92eb017")
+	)
+	(fp_line
+		(start -6.41 6.41)
+		(end 6.41 6.41)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "af0918dd-d0e8-4bf9-bee4-1c33c882fea6")
+	)
+	(fp_line
+		(start 6.41 -6.41)
+		(end 6.41 -2.96)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8bab6f0d-158d-47ed-9857-b9efd529e660")
+	)
+	(fp_line
+		(start 6.41 6.41)
+		(end 6.41 2.96)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e0bb3e64-2795-4124-ae2d-2007520d18b3")
+	)
+	(fp_line
+		(start -6.65 -6.4)
+		(end -6.65 6.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "09900396-326c-4e9f-a90d-a659ae50d179")
+	)
+	(fp_line
+		(start -6.65 6.4)
+		(end 6.65 6.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a9a3e83e-6692-424a-a34d-67c9c1ec0b6e")
+	)
+	(fp_line
+		(start 6.65 -6.4)
+		(end -6.65 -6.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5d8328d2-a9af-466d-a484-2b705661e3fa")
+	)
+	(fp_line
+		(start 6.65 6.4)
+		(end 6.65 -6.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "97bb5002-240c-4dbc-a4f5-f6e9982fb5f0")
+	)
+	(fp_line
+		(start -6.15 -6.15)
+		(end -6.15 6.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "38ad1a10-bf8c-41c7-9b75-6dbb8bafcd23")
+	)
+	(fp_line
+		(start -6.15 6.15)
+		(end 6.15 6.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "687a61c9-0660-4ec6-89c5-46ea33461614")
+	)
+	(fp_line
+		(start 6.15 -6.15)
+		(end -6.15 -6.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3e6fbd97-3e7c-4481-b197-92f4168c42ce")
+	)
+	(fp_line
+		(start 6.15 6.15)
+		(end 6.15 -6.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4bfb093e-6446-4932-9499-74e91919d661")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "9e604430-5c16-45dc-b203-ebc479602d78")
+		(effects
+			(font
+				(size 0.966667 0.966667)
+				(thickness 0.145)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -3.75 0)
+		(size 4.5 8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curve_points 0)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "69933f56-ef8a-41eb-8ac0-9700272c2e9e")
+	)
+	(pad "2" smd rect
+		(at 3.75 0)
+		(size 4.5 8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curve_points 0)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "232c635a-b0c3-467c-a91c-eb01e9cb1f14")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_SXN_SMDRI127.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

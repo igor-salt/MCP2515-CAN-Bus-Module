@@ -1,0 +1,466 @@
+(footprint "SOIC-8E"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "U4"
+		(at -5.4275 3.105 90)
+		(layer "F.SilkS")
+		(uuid "bcfccdaa-57df-4c1e-91e3-d5b14cf9ff35")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "TJA1050DRG"
+		(at 2.4725 3.405 180)
+		(layer "F.Fab")
+		(uuid "c9a0848a-eff7-4f51-8ad1-548ec7da725c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "ProPrj_CAN_2025-04-09:SOIC-8E"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "01773fd1-0e7d-4341-991e-39513c3f9d71")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20231229/9EC40A6172CAB0350BF7AF3421F4DEBF.pdf"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a82ba63e-f145-4afa-8446-cf9496def32e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "CAN Transiver"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2d897474-9edc-4e75-97fa-320b75f3d568")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer Part" "TJA1050DRG"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ac05e17d-4f18-43d2-a481-4b1665735c0b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer" "HGC(深圳汉芯)"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "49e5d288-febb-4126-bc32-8242f82ddf07")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Supplier Part" "C19723770"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "74ec18ea-effd-4330-b849-1c6b7f60b022")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Supplier" "LCSC"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1b2ce548-21c4-4f81-84e1-04f506508fab")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC Part Name" "TJA1050DRG"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "43ab9a96-47bd-4ce3-954f-238894634682")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Add into BOM" "yes"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2188914d-d1fc-408c-954c-18857e44764c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Convert to PCB" "yes"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "077ba54f-0880-48a5-a9f3-dcd688ed1e58")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Design Item ID" "TJA1050DRG"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a8694399-20d3-414d-8a1c-181b484032d8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "JLCPCB Part Class" "Extended Part"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6f04c517-11ad-4445-8c5b-6ddc5c2e95bc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Library Name" "adafruit"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3b8670d5-8688-464d-b61d-daf4e06c78f3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Origin Footprint 1" "SOIC-8E"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7b76de2f-6049-477e-ac00-26718a5aa739")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Origin Footprint 2" "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2284ab6e-0ba4-4636-9866-9a591949026d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Supplier Footprint" "SOP-8"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ab0ca2be-be90-410f-9347-f544fbb70e30")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "ChipDip" "8044731834"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ce30d1d5-d191-4a25-9efe-cd130c2230ca")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -1.5215 2.526)
+		(end -1.5215 -2.526)
+		(stroke
+			(width 0.1525)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "557b0de8-872c-4452-9a5c-21947ebee870")
+	)
+	(fp_line
+		(start 1.5215 -2.526)
+		(end -1.5215 -2.526)
+		(stroke
+			(width 0.1525)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "212f8bbc-0455-4f2e-9e19-4de7588f3588")
+	)
+	(fp_line
+		(start 1.5215 2.526)
+		(end -1.5215 2.526)
+		(stroke
+			(width 0.1525)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "1029eb59-0694-4ae8-83d7-a95e428bcfcd")
+	)
+	(fp_line
+		(start 1.5215 2.526)
+		(end 1.5215 -2.526)
+		(stroke
+			(width 0.1525)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "bac1b86b-42aa-4ad4-a876-b0e38798c094")
+	)
+	(fp_circle
+		(center -2.7725 -2.6515)
+		(end -2.6225 -2.6515)
+		(stroke
+			(width 0.3)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "42968fc0-c6bf-417f-b1b8-c83a90b6e1fd")
+	)
+	(fp_circle
+		(center -0.769 -1.905)
+		(end -0.619 -1.905)
+		(stroke
+			(width 0.3)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "a8abd55a-234b-4053-8843-ca2518f3853a")
+	)
+	(fp_circle
+		(center -3.4 -1.905)
+		(end -3.25 -1.905)
+		(stroke
+			(width 0.3)
+			(type default)
+		)
+		(fill none)
+		(layer "User.1")
+		(uuid "7935cddd-2892-4acb-a1f8-1e33d5ee4dc8")
+	)
+	(pad "1" smd rect
+		(at -2.7725 -1.905 270)
+		(size 0.588 2.045)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curve_points 0)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "a4d59d55-4ac9-40f8-9db6-64a2ed4a6a4c")
+	)
+	(pad "2" smd rect
+		(at -2.7725 -0.635 270)
+		(size 0.588 2.045)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curve_points 0)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "0d1b6116-99d4-4aa8-94a3-969a86fb1dc9")
+	)
+	(pad "3" smd rect
+		(at -2.7725 0.635 270)
+		(size 0.588 2.045)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curve_points 0)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "92a9a127-1945-4e51-b49d-dacf776c4182")
+	)
+	(pad "4" smd rect
+		(at -2.7725 1.905 270)
+		(size 0.588 2.045)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curve_points 0)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "1f8ad4b3-55e4-4f97-b7f4-b58e6add9200")
+	)
+	(pad "5" smd rect
+		(at 2.7725 1.905 270)
+		(size 0.588 2.045)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curve_points 0)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "a9f5df89-ef98-44ba-95de-e0c89e75ece2")
+	)
+	(pad "6" smd rect
+		(at 2.7725 0.635 270)
+		(size 0.588 2.045)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curve_points 0)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "8a016ab6-1bb8-43ba-9340-cd1ead555891")
+	)
+	(pad "7" smd rect
+		(at 2.7725 -0.635 270)
+		(size 0.588 2.045)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curve_points 0)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "e208fd84-0937-47a5-a25e-b451709c3f6b")
+	)
+	(pad "8" smd rect
+		(at 2.7725 -1.905 270)
+		(size 0.588 2.045)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curve_points 0)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "53dbe128-72cd-407f-a812-43a13c7d47eb")
+	)
+	(model "${KIPRJMOD}/TJA1050T_CM_118.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)
